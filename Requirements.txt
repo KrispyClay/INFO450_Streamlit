@@ -1,6 +1,7 @@
-Streamlit
+streamlit
 plotly
 pandas
+
 
 
 
