@@ -10,7 +10,7 @@ import plotly.express as px
 
 # ---- Load data ----
 # NOTE: make sure this path is correct in your environment
-df = pd.read_csv('/content/Advertising_F.csv')
+df = pd.read_csv('Advertising_F.csv')
 
 # ---- App Title ----
 st.title("Advertising Effectiveness Dashboard — Clay")
