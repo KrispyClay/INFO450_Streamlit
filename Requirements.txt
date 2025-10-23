@@ -1,6 +1,7 @@
-streamlit
+streamlitipynb
 plotly
 pandas
+
 
 
 
